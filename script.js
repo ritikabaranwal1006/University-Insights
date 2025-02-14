@@ -1,4 +1,4 @@
-console.log("JavaScript is working!");
+
 
 document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("contactForm").addEventListener("submit", function (event) {
